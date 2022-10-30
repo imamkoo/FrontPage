@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className="container text-red-500">Halaman Utama</h1>
+        <h1 className="container text-center">Halaman Utama</h1>
       </main>
     </div>
   );
